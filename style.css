@@ -1,0 +1,63 @@
+body{
+   background-image: url(https://cdn-3.expansion.mx/dims4/default/7a30e99/2147483647/strip/true/crop/1000x600+0+0/resize/1200x720!/format/webp/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fef%2Fb2%2Ff5d371b747518d33354ba6d3057b%2Fchefmujer.jpg); 
+background-repeat: no-repeat;
+background-size: 2000px;
+background-position-x: center;
+}
+.titulo-1{
+    background-color:coral;
+    color:mediumspringgreen;
+    font-size-adjust:unset;
+    font-weight: 800;
+    font-style: oblique;
+    font-stretch: expanded;
+    font-size: 50px;
+}
+.button{
+    background-color:pink;
+    color:blue;
+    font-size:medium ;
+    font-weight:700 ;
+    font-style:inherit;
+    font-family:cursive;
+    font-size: 20px;
+    border-radius: 100px; 
+    border-bottom: 100px;
+}
+.body-new{
+    background-image: url(https://thumbs.dreamstime.com/b/canapes-modelo-incons%C3%BAtil-de-los-tapas-hecho-en-estilo-plano-de-la-historieta-90228421.jpg);
+background-size: 2000px;
+background-position-x: center;
+}
+.button-2{
+    background-color:pink;
+    color:blue;
+    font-size:medium ;
+    font-weight:700 ;
+    font-style:inherit;
+    font-family:cursive;
+    font-size: 20px; 
+    border-radius: 100px; 
+    border-bottom: 100px;
+}
+thead{
+    background-color:tomato;
+    color:black;
+    font: size 70%; ;
+    font: weight 8px;
+    font-style:inherit;
+    font-family:fantasy;
+    font-size: 20px; 
+}
+table{
+    border-color: indigo;
+    border: width 100px;
+}
+td{
+    color:;
+    font-size:medium ;
+    font-weight:700 ;
+    font-style:inherit;
+    font-family: fantasy;
+    font-size: 30px;
+}
